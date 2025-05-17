@@ -1,0 +1,48 @@
+body{
+    background-color: #bbe4fc;
+    border: 2px solid black;
+    display: inline-block;
+    margin-left: 10em;
+    margin-top: 10em;
+}
+#body1{
+    background-color: rgb(207, 154, 154);
+}
+.buttons{
+    border-radius: 50px;
+    border: none;
+    background-color: lab(1.53% 1.23 -4.16);
+    color: rgb(220, 167, 255);
+    margin:4px;
+    font-size: 1.5em;
+    transition: background-color 0.25s;
+    height:70px;
+    width:70px;
+    cursor: pointer;
+    padding: auto;
+}
+.buttons:hover{
+    background-color: lab(64.66% 18.08 -44.28);
+
+}
+#btn19{
+    width:150px;
+}
+#btn16{
+    font-size: 1.3em;
+}
+
+#myText{
+    border:none;
+    margin:15px 0px 10px 20px;
+    height:80px;
+    border-radius:10px;
+    width:280px;
+    color:black;
+    font-size: 1.5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;       
+    direction: ltr;
+    vertical-align: bottom;
+ 
+}
